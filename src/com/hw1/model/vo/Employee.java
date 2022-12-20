@@ -1,7 +1,5 @@
 package com.hw1.model.vo;
 
-import javax.swing.ScrollPaneLayout;
-
 public class Employee {
 
 	private int empNo;
@@ -109,7 +107,7 @@ public class Employee {
 		return bonusPoint;
 	}
 	
-	public void setBonusPoint(double bonuspoint) {
+	public void setBonusPoint(double bonusPoint) {
 		this.bonusPoint = bonusPoint;
 	}
 	
